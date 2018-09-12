@@ -1,4 +1,4 @@
-# DRL
+# Deep Reinforcement Learning
 Must-read Papers and Courses on Deep Reinforcement Learning (DRL)
 
 ## Courses
