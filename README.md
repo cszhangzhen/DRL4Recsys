@@ -11,6 +11,7 @@ Must-read Papers and Courses on Deep Reinforcement Learning (DRL)
 ## Papers
 ### Survey Papers
 1. **A Brief Survey of Deep Reinforcement Learning**. Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath.2017. [paper](https://arxiv.org/pdf/1708.05866.pdf)
+
 2.**Deep Reinforcement Learing: An Overview**. Yuxi Li. 2017. [paper](https://arxiv.org/pdf/1701.07274.pdf)
 
 To be added ...
