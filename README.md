@@ -9,4 +9,6 @@ Must-read Papers and Courses on Deep Reinforcement Learning (DRL)
 #### Stanford CS234: Reinforcement Learning
 [http://web.stanford.edu/class/cs234/index.html](http://web.stanford.edu/class/cs234/index.html)
 ## Papers
+### Survey Papers
+1. **A Brief Survey of Deep Reinforcement Learning**. Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath. [paper](https://arxiv.org/pdf/1708.05866.pdf)
 To be added ...
