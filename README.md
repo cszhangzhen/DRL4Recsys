@@ -1,5 +1,5 @@
-# Deep Reinforcement Learning
-Must-read Papers and Courses on Deep Reinforcement Learning (DRL)
+# Deep Reinforcement Learning for Recommender Systems 
+Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender system
 
 ## Courses
 #### UCL Course on RL 
@@ -14,4 +14,5 @@ Must-read Papers and Courses on Deep Reinforcement Learning (DRL)
 1. **Deep Reinforcement Learing: An Overview**. Yuxi Li. 2017. [paper](https://arxiv.org/pdf/1701.07274.pdf)
 
 ### Conference Papers
-To be added ...
+1. **DRN: A Deep Reinforcement Learning Framework for News Recommendation**. Guanjie Zheng, Fuzheng Zhang, Zihan Zheng, Yang Xiang, Nicholas Jing Yuan, Xing Xie, Zhenhui Li. WWW 2018. [paper](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
+1. **Deep Reinforcement Learning for Page-wise Recommendations**. Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang.  RecSys 2018. [paper](https://arxiv.org/pdf/1805.02343.pdf)
