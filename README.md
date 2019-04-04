@@ -10,7 +10,7 @@ Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender syst
 [http://web.stanford.edu/class/cs234/index.html](http://web.stanford.edu/class/cs234/index.html)
 
 ## Book
-1. **Reinforcement Learning: An Introduction**. Richard S. Sutton and Andrew G. Barto. [book](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
+1. **Reinforcement Learning: An Introduction (Second Edition)**. Richard S. Sutton and Andrew G. Barto. [book](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
 ## Papers
 ### Survey Papers
