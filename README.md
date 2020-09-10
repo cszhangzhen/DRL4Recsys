@@ -46,17 +46,16 @@ Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender syst
 1. **Pseudo Dyna-Q: A Reinforcement Learning Framework for Interactive Recommendation**. Lixin Zou, Long Xia, Pan Du, Zhuo Zhang, Ting Bai, Weidong Liu, Jian-Yun Nie, Dawei Yin. WSDM 2020. [paper](https://tbbaby.github.io/pub/wsdm20.pdf)
 1. **End-to-End Deep Reinforcement Learning based Recommendation with Supervised Embedding**. Feng Liu, Huifeng Guo, Xutao Li, Ruiming Tang, Yunming Ye, Xiuqiang He. WSDM 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371858)
 1. **Reinforced Negative Sampling over Knowledge Graph for Recommendation**. Xiang Wang, Yaokun Xu, Xiangnan He, Yixin Cao, Meng Wang, Tat-Seng Chua. WWW 2020. [paper](https://arxiv.org/pdf/2003.05753.pdf)
-1. **A Reinforcement Learning Framework for Relevance Feedback**. Ali Montazeralghaem, Hamed Zamani, James Allan. SIGIR 2020. 
-1. **KERL: A Knowledge-Guided Reinforcement Learning Model for  Sequential Recommendation**. Pengfei Wang, Yu Fan, Long Xia, Wayne Xin Zhao, Shaozhang Niu, Jimmy Huang. SIGIR 2020.
-1. **Self-Supervised Reinforcement Learning for Recommender Systems**. Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose. SIGIR 2020.
-1. **Reinforcement Learning to Rank with Pairwise Policy Gradient**. Jun Xu, Zeng Wei, Long Xia, Yanyan Lan, Dawei Yin, Xueqi Cheng, Ji-Rong Wen. SIGIR 2020.
-1. **MaHRL: Multi-goals Abstraction based Deep Hierarchical Reinforcement Learning for Recommendations**. Dongyang Zhao, Liang Zhang, Bo Zhang, Lizhou Zheng, Yongjun Bao, Weipeng Yan. SIGIR 2020.
-1. **Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs**. Kangzhi Zhao, Xiting Wang, Yuren Zhang, Li Zhao, Zheng Liu, Chunxiao Xing, Xing Xie. SIGIR 2020.
-1. **Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning**. Sijin Zhou, Xinyi Dai, Haokun Chen, Weinan Zhang, Kan Ren, Ruiming Tang, Xiuqiang He, Yong Yu. SIGIR 2020.
-1. **Adversarial Attack and Detection on Reinforcement Learning based Recommendation System**. Yuanjiang Cao, Xiaocong Chen, Lina Yao, Xianzhi Wang, Wei Emma Zhang. SIGIR 2020.
-1. **Reinforcement Learning based Recommendation with Graph Convolutional Q-network**. Yu Lei, Hongbin Pei, Hanqi Yan, Wenjie Li. SIGIR 2020.
-1. **Balancing Reinforcement Learning Training Experiences in Interactive Information Retrieval**. Limin Chen, Zhiwen Tang, Grace Hui Yang. SIGIR 2020.
-1. **Nonintrusive-Sensing and Reinforcement-Learning Based Adaptive Personalized Music Recommendation**. D Hong, L Miao, Y Li. SIGIR 2020.
+1. **A Reinforcement Learning Framework for Relevance Feedback**. Ali Montazeralghaem, Hamed Zamani, James Allan. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401099)
+1. **KERL: A Knowledge-Guided Reinforcement Learning Model for  Sequential Recommendation**. Pengfei Wang, Yu Fan, Long Xia, Wayne Xin Zhao, Shaozhang Niu, Jimmy Huang. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401134)
+1. **Self-Supervised Reinforcement Learning for Recommender Systems**. Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose. SIGIR 2020. [paper](https://arxiv.org/pdf/2006.05779.pdf)
+1. **Reinforcement Learning to Rank with Pairwise Policy Gradient**. Jun Xu, Zeng Wei, Long Xia, Yanyan Lan, Dawei Yin, Xueqi Cheng, Ji-Rong Wen. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401148)
+1. **MaHRL: Multi-goals Abstraction based Deep Hierarchical Reinforcement Learning for Recommendations**. Dongyang Zhao, Liang Zhang, Bo Zhang, Lizhou Zheng, Yongjun Bao, Weipeng Yan. SIGIR 2020. [paper](https://arxiv.org/pdf/1903.09374.pdf)
+1. **Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs**. Kangzhi Zhao, Xiting Wang, Yuren Zhang, Li Zhao, Zheng Liu, Chunxiao Xing, Xing Xie. SIGIR 2020. [paper](https://dl.acm.org/doi/10.1145/3397271.3401171)
+1. **Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning**. Sijin Zhou, Xinyi Dai, Haokun Chen, Weinan Zhang, Kan Ren, Ruiming Tang, Xiuqiang He, Yong Yu. SIGIR 2020. [paper](https://arxiv.org/pdf/2006.10389.pdf)
+1. **Adversarial Attack and Detection on Reinforcement Learning based Recommendation System**. Yuanjiang Cao, Xiaocong Chen, Lina Yao, Xianzhi Wang, Wei Emma Zhang. SIGIR 2020. [paper](https://arxiv.org/pdf/2006.07934.pdf)
+1. **Reinforcement Learning based Recommendation with Graph Convolutional Q-network**. Yu Lei, Hongbin Pei, Hanqi Yan, Wenjie Li. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401237)
+1. **Nonintrusive-Sensing and Reinforcement-Learning Based Adaptive Personalized Music Recommendation**. D Hong, L Miao, Y Li. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401225)
 
 
 ### Preprint Papers
