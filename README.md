@@ -59,7 +59,14 @@ Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender syst
 1. **Keeping Dataset Biases out of the Simulation: A Debiased Simulator for Reinforcement Learning based Recommender Systems**. Jin Huang, Harrie Oosterhuis, Maarten de Rijke, Herke van Hoof. RecSys 2020. [paper](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/huang-2020-keeping.pdf)
 1. **Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication**. Xu He, Bo An, Yanghua Li, Haikai Chen, Rundong Wang, Xinrun Wang, Runsheng Yu, Xin Li, Zhirong Wang. RecSys 2020. [paper](https://arxiv.org/pdf/2008.09369.pdf)
 1. **User Response Models to Improve a REINFORCE Recommender System**. Minmin Chen, Bo Chang, Can Xu, Ed Chi. WSDM 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441764)
+1. **Reinforcement Recommendation with User Multi-aspect Preference**. Xu Chen, Yali Du, Long Xia, Jun Wang. WWW 2021. [paper](https://dl-acm-org.libproxy1.nus.edu.sg/doi/abs/10.1145/3442381.3449846)
 1. **Towards Content Provider Aware Recommender Systems: A Simulation Study on the Interplay between User and Provider Utilities**. Ruohan Zhan, Konstantina Christakopoulou, Ya Le, Jayden Ooi, Martin Mladenov, Alex Beutel, Craig Boutilier, Ed H. Chi, Minmin Chen. WWW 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449889)
+1. **Reinforcement Learning to Optimize Lifetime Value in Cold-Start Recommendation**. Luo Ji, Qi Qin, Bingqing Han, Hongxia Yang. CIKM 2021. [paper](https://arxiv.org/abs/2108.09141)
+1. **Generative Inverse Deep Reinforcement Learning for Online Recommendation**. Xiaocong Chen, Lina Yao, Aixin Sun, Xianzhi Wang, Xiwei Xu, Liming Zhu. CIKM 2021. [paper](https://arxiv.org/abs/2011.02248)
+1. **Explore, Filter and Distill: Distilled Reinforcement Learning in Recommendation**. Ruobing Xie, Shaoliang Zhang, Rui Wang, Feng Xia, Leyu Lin. CIKM 2021. [paper](https://dl-acm-org.libproxy1.nus.edu.sg/doi/abs/10.1145/3459637.3481917)
+1. **Choosing the Best of All Worlds: Accurate, Diverse, and Novel Recommendations through Multi-Objective Reinforcement Learning**. Duan Stamenkovi, Alexandros Karatzoglou, Ioannis Arapakis, Xin Xin, Kleomenis Katevas. WSDM 2022. [paper](https://arxiv.org/abs/2110.15097)
+1. **Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation through Reinforcement Learning**. Yingqiang Ge, Xiaoting Zhao, Lucia Yu, Saurabh Paul, Diane Hu, Chu-Cheng Hsieh, Yongfeng Zhang. WSDM 2022. [paper](https://arxiv.org/abs/2201.00140)
+1. **Reinforcement Learning over Sentiment-Augmented Knowledge Graphs towards Accurate and Explainable Recommendation**. Sung-Jun Park, Dong-Kyu Chae, Hong-Kyun Bae, Sumin Park, and Sang-Wook Kim. WSDM 2022.
 
 
 ### Preprint Papers
