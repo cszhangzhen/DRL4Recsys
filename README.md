@@ -19,7 +19,7 @@ Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender syst
 
 ### Conference Papers
 1. **An MDP-Based Recommender System**. Guy Shani, David Heckerman, Ronen I. Brafman. JMLR 2005. [paper](http://www.jmlr.org/papers/volume6/shani05a/shani05a.pdf)
-1. **Usage-Based Web Recommendations: A Reinforcement Learning Approach**. Nima Taghipour, Ahmad Kardan, Saeed Shiry Ghidary. Recsys 2007. [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.9640&rep=rep1&type=pdf)
+1. **Usage-Based Web Recommendations: A Reinforcement Learning Approach**. Nima Taghipour, Ahmad Kardan, Saeed Shiry Ghidary. RecSys 2007. [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.9640&rep=rep1&type=pdf)
 1. **DJ-MC: A Reinforcement-Learning Agent for Music Playlist Recommendation**. Elad Liebman, Maytal Saar-Tsechansky, Peter Stone. AAMAS 2015. [paper](https://arxiv.org/pdf/1401.1880.pdf)
 1. **Learning to Collaborate: Multi-Scenario Ranking via Multi-Agent Reinforcement Learning**. Jun Feng, Heng Li, Minlie Huang, Shichen Liu, Wenwu Ou, Zhirong Wang, Xiaoyan Zhu. WWW 2018. [paper](https://arxiv.org/pdf/1809.06260.pdf)
 1. **Reinforcement Mechanism Design for e-commerce**. Qingpeng Cai, Aris Filos-Ratsikas, Pingzhong Tang, Yiwei Zhang. WWW 2018. [paper](https://arxiv.org/pdf/1708.07607.pdf)
@@ -58,19 +58,23 @@ Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender syst
 1. **Nonintrusive-Sensing and Reinforcement-Learning Based Adaptive Personalized Music Recommendation**. D Hong, L Miao, Y Li. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401225)
 1. **Keeping Dataset Biases out of the Simulation: A Debiased Simulator for Reinforcement Learning based Recommender Systems**. Jin Huang, Harrie Oosterhuis, Maarten de Rijke, Herke van Hoof. RecSys 2020. [paper](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/huang-2020-keeping.pdf)
 1. **Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication**. Xu He, Bo An, Yanghua Li, Haikai Chen, Rundong Wang, Xinrun Wang, Runsheng Yu, Xin Li, Zhirong Wang. RecSys 2020. [paper](https://arxiv.org/pdf/2008.09369.pdf)
+1. **Whole-Chain Recommendations**. Xiangyu Zhao, Long Xia, Yihong Zhao, Dawei Yin, Jiliang Tang. CIKM 2020. [paper](https://arxiv.org/pdf/1902.03987.pdf)
 1. **User Response Models to Improve a REINFORCE Recommender System**. Minmin Chen, Bo Chang, Can Xu, Ed Chi. WSDM 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441764)
 1. **Reinforcement Recommendation with User Multi-aspect Preference**. Xu Chen, Yali Du, Long Xia, Jun Wang. WWW 2021. [paper](https://dl-acm-org.libproxy1.nus.edu.sg/doi/abs/10.1145/3442381.3449846)
 1. **Towards Content Provider Aware Recommender Systems: A Simulation Study on the Interplay between User and Provider Utilities**. Ruohan Zhan, Konstantina Christakopoulou, Ya Le, Jayden Ooi, Martin Mladenov, Alex Beutel, Craig Boutilier, Ed H. Chi, Minmin Chen. WWW 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449889)
 1. **Reinforcement Learning to Optimize Lifetime Value in Cold-Start Recommendation**. Luo Ji, Qi Qin, Bingqing Han, Hongxia Yang. CIKM 2021. [paper](https://arxiv.org/abs/2108.09141)
 1. **Generative Inverse Deep Reinforcement Learning for Online Recommendation**. Xiaocong Chen, Lina Yao, Aixin Sun, Xianzhi Wang, Xiwei Xu, Liming Zhu. CIKM 2021. [paper](https://arxiv.org/abs/2011.02248)
 1. **Explore, Filter and Distill: Distilled Reinforcement Learning in Recommendation**. Ruobing Xie, Shaoliang Zhang, Rui Wang, Feng Xia, Leyu Lin. CIKM 2021. [paper](https://dl-acm-org.libproxy1.nus.edu.sg/doi/abs/10.1145/3459637.3481917)
+1. **Partially Observable Reinforcement Learning for Dialog-based Interactive Recommendation**. Yaxiong Wu, Craig Macdonald, and Iadh Ounis. RecSys 2021.
 1. **Choosing the Best of All Worlds: Accurate, Diverse, and Novel Recommendations through Multi-Objective Reinforcement Learning**. Duan Stamenkovi, Alexandros Karatzoglou, Ioannis Arapakis, Xin Xin, Kleomenis Katevas. WSDM 2022. [paper](https://arxiv.org/abs/2110.15097)
 1. **Toward Pareto Efficient Fairness-Utility Trade-off in Recommendation through Reinforcement Learning**. Yingqiang Ge, Xiaoting Zhao, Lucia Yu, Saurabh Paul, Diane Hu, Chu-Cheng Hsieh, Yongfeng Zhang. WSDM 2022. [paper](https://arxiv.org/abs/2201.00140)
 1. **Reinforcement Learning over Sentiment-Augmented Knowledge Graphs towards Accurate and Explainable Recommendation**. Sung-Jun Park, Dong-Kyu Chae, Hong-Kyun Bae, Sumin Park, and Sang-Wook Kim. WSDM 2022.
-
-
-### Preprint Papers
-1. **Reinforcement Learning based Recommender System using Biclustering Technique**. Sungwoon Choi, Heonseok Ha, Uiwon Hwang, Chanju Kim, Jung-Woo Ha, Sungroh Yoon. arxiv 2018. [paper](https://arxiv.org/pdf/1801.05532.pdf) 
-1. **Deep Reinforcement Learning based Recommendation with Explicit User-Item Interactions Modeling**. Feng Liu, Ruiming Tang, Xutao Li, Weinan Zhang, Yunming Ye, Haokun Chen, Huifeng Guo, Yuzhou Zhang. arxiv 2018. [paper](https://arxiv.org/pdf/1810.12027.pdf)
-1. **Model-Based Reinforcement Learning for Whole-Chain Recommendations**. Xiangyu Zhao, Long Xia, Yihong Zhao, Dawei Yin, Jiliang Tang. arxiv 2019. [paper](https://arxiv.org/pdf/1902.03987.pdf)
+1. **Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective**. Xin Xin, Tiago Pimentel, Alexandros Karatzoglou, Pengjie Ren, Konstantina Christakopoulou and Zhaochun Ren. SIGIR 2022.
+1. **Doubly-Adaptive Reinforcement Learning for Cross-Domain Interactive Recommendation**. Junda Wu, Zhihui Xie, Tong Yu, Handong Zhao, Ruiyi Zhang and Shuai Li. SIGIR 2022.
+1. **State Encoders in Reinforcement Learning for Recommendation: A Reproducibility Study**. Jin Huang, Harrie Oosterhuis, Bunyamin Cetinkaya, Thijs Rood and Maarten de Rijke. SIGIR 2022.
+1. **Deep Page-Level Interest Network in Reinforcement Learning for Ads Allocation**. Guogang Liao, Xiaowen Shi, Ze Wang, Xiaoxu Wu, Chuheng Zhang, Yongkang Wang, Xingxing Wang and Dong Wang. SIGIR 2022.
+1. **Revisiting Interactive Recommender System with Reinforcement Learning**. Hojoon Lee, Dongyoon Hwang, Kyushik Min and Jaegul Choo. SIGIR 2022.
+1. **Learning Binarized Graph Representations with Multi-faceted Quantization Reinforcement for Top-K Recommendation**. Yankai Chen, Huifeng Guo, Yingxue Zhang, Chen Ma, Ruiming Tang, Jingjie Li, Irwin King. KDD 2022.
+1. **Learning Relevant Information in Conversational Search and Recommendation using Deep Reinforcement Learning**. Ali Montazeralghaem, James Allan. KDD 2022.
+1. **Multi-Task Fusion via Reinforcement Learning for Long-Term User Satisfaction in Recommender Systems**. Qihua Zhang, Junning Liu, Yuzhuo Dai, Kunlun Zheng, Fan Huang, Yifan Yuan, Xianfeng Tan, Yiyan Qi. KDD 2022.
 
