@@ -77,4 +77,6 @@ Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender syst
 1. **Learning Binarized Graph Representations with Multi-faceted Quantization Reinforcement for Top-K Recommendation**. Yankai Chen, Huifeng Guo, Yingxue Zhang, Chen Ma, Ruiming Tang, Jingjie Li, Irwin King. KDD 2022.
 1. **Learning Relevant Information in Conversational Search and Recommendation using Deep Reinforcement Learning**. Ali Montazeralghaem, James Allan. KDD 2022.
 1. **Multi-Task Fusion via Reinforcement Learning for Long-Term User Satisfaction in Recommender Systems**. Qihua Zhang, Junning Liu, Yuzhuo Dai, Kunlun Zheng, Fan Huang, Yifan Yuan, Xianfeng Tan, Yiyan Qi. KDD 2022.
-
+1. **Generative Slate Recommendation with Reinforcement Learning**. Romain Deffayet, Thibaut Thonet, Jean-Michel Renders, Maarten de Rijke. WSDM 2023.
+1. **Multi-Task Recommendations with Reinforcement Learning**. Ziru Liu, Jiejie Tian, Qingpeng Cai, Xiangyu Zhao, Jingtong Gao, Shuchang Liu, Dayou Chen, Tonghao He, Dong Zheng, Peng Jiang, Kun Gai. WWW 2023.
+1. **RL-MPCA: A Reinforcement Learning Based Multi-Phase Computation Allocation Approach for Recommender Systems**. Jiahong Zhou, Shunhui Mao, Guoliang Yang, Bo Tang, Qianlong Xie, Lebin Lin, Xingxing Wang, Dong Wang. WWW 2023.
